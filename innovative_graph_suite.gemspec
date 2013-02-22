@@ -12,4 +12,5 @@ Gem::Specification.new do |s|
 
   #add all IGS gems here!
   s.add_runtime_dependency 'igs_pie_chart', '>= 0.0.11'
+  s.add_runtime_dependency 'igs_bar_chart', '>= 0.0.1'
 end
